@@ -11,3 +11,4 @@ uuid
 pyjwt
 email-validator
 cryptography
+gunicorn
