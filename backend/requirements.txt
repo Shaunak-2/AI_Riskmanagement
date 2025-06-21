@@ -1,0 +1,13 @@
+Flask
+Flask-Cors
+pymongo
+python-docx
+python-pptx
+PyMuPDF
+requests
+python-dotenv
+Werkzeug
+uuid
+pyjwt
+email-validator
+cryptography
